@@ -1,0 +1,20 @@
+{
+    "frequency": "weekly",
+    "data": [
+        {
+            "job": "job_1",
+            "path": "../Report/positive",
+            "isSuccess": true
+        },
+        {
+            "job": "job_2",
+            "path": "../Report/negative",
+            "isSuccess": false
+        },
+        {
+            "job": "job_3",
+            "path": "../Report/false-positive",
+            "isSuccess": false
+        }
+    ]
+}

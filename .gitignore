@@ -1,3 +1,6 @@
+# generated js files from tsc
+*.js
+
 # Logs
 logs
 *.log
