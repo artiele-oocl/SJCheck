@@ -1,5 +1,6 @@
 /**
- * Navigates inside a report directory thus, this is called for every scheduled job
+ * Get constants based on frequency e.g. monthly.ts then iterate over these scheduled jobs
+ * Navigates inside a report directory
  * Retrieve FileProperty of latest file
  * Validate that latest file
  * return: file
